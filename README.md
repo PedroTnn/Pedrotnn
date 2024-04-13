@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pedrotnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pedrotnn" height="30" width="40" /></a>
+<a href="https://dev.to/pedrotnn" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-3772626-3147099.png" alt="pedrotnn" height="30" width="40" /></a>
 <a href="https://twitter.com/pedrotnns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedrotnns" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-tel%c3%b3n-b2010a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-tel%c3%b3n-b2010a196/" height="30" width="40" /></a>
 </p>
