@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Telón , Proudly Guatemalan 🇬🇹</h1>
+<h1 align="center">Hi 👋, I'm Pedro Telón , I 'm Proudly Guatemalan 🇬🇹</h1>
 <!-- ![Animación](https://pa1.aminoapps.com/6897/17a95e958d523aba4a1e90106e5f3c1555d01b96r1-224-214_00.gif) -->
 
 <h2 align="center">Developer Passionate about providing solutions to projects</h3>
