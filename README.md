@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Telón</h1>
 ![Animación](https://pa1.aminoapps.com/6897/17a95e958d523aba4a1e90106e5f3c1555d01b96r1-224-214_00.gif)
-
+<h2>Proudly Guatemalan 🇬🇹</h2>
 <h2 align="center">Developer Passionate about providing solutions to projects</h3>
-<h3>Proudly Guatemalan 🇬🇹</h4>
+
 
 - 🔭 I’m currently working on [Tikal Web](https://www.tikalweb.com/)
 
