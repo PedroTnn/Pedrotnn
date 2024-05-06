@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Javascript, DOM, APIrestfull**
 
-- 📫 How to reach me **pedrotnns@gmail.com**
+- 📫 How to reach me **pedrotelon01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
